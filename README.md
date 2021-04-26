@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Seraldo
+- 👀 I’m interested in learning how to script, at the beggining I donloaded Core (Coregames) and started making a game, but i could only use already done models because I didn't know how to script, so here am I, trying to learn how to script
